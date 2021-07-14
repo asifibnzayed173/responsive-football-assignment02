@@ -117,8 +117,7 @@ body {
     align-items: center;
     justify-content: space-between;
   }
-  .content {
-  }
+  
   /* footer */
   
   .footer-container {
@@ -154,7 +153,7 @@ body {
     border-radius: 16px;
   }
   .circle {
-    color: ;
+    color: cyan ;
   }
   
   /* Media Query */
